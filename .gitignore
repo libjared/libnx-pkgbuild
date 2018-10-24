@@ -1,0 +1,4 @@
+libnx/
+libnx-git-*.pkg.tar.xz
+pkg/
+src/
